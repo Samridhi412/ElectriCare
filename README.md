@@ -1,0 +1,15 @@
+<img width="960" alt="i8" src="https://github.com/Samridhi412/ElectriCare/assets/56949183/7ec5aef5-a890-470a-b2d4-0bf1d6c14a42">
+![Uploading i9.png…]()
+![Uploading i10.png…]()
+![Uploading i11.png…]()
+![Uploading i12.png…]()
+![Uploading i13.png…]()
+![Uploading i14.png…]()
+![Uploading i1.png…]()
+![Uploading i2.png…]()
+![Uploading i3.png…]()
+![Uploading i4.png…]()
+![Uploading i5.png…]()
+# ElectriCare
+![Uploading i6.png…]()
+![Uploading i7.png…]()
