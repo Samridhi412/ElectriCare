@@ -1,3 +1,12 @@
+# ELECTRICARE
+## This is a electricity billing system where customer can create accounts, login, update and view account information. Generate bills, view bill details and also pay bills using UPI Paytm. Admins can create customers using their unique meter_numbers, calculate bills, view customer information and deposit details
+
+# Tech-Stacks Used
+## Editor: Netbeans
+## Language: Java(Swing, Awt)
+## Database: Mysql
+
+# Images Of UI
 <img width="515" alt="i3" src="https://github.com/Samridhi412/ElectriCare/assets/56949183/33b24db7-c196-43d0-8392-228c8c0c9741">
 <img width="625" alt="i14" src="https://github.com/Samridhi412/ElectriCare/assets/56949183/2c3002a0-c6f8-46c3-a35f-fe831211f48e">
 <img width="960" alt="i8" src="https://github.com/Samridhi412/ElectriCare/assets/56949183/7ec5aef5-a890-470a-b2d4-0bf1d6c14a42">
